@@ -1,10 +1,13 @@
 Seasonal Agriculture Performance Data Analytics 🌾📊
+
 An end-to-end data analytics project examining seasonal variations in agricultural performance across Kharif, Rabi, and Zaid seasons. This repository analyzes environmental factors, resource inputs, and economic outcomes to uncover key drivers of crop yield and profitability, offering data-driven strategies for optimizing farming operations.
 
 📌 Project Overview
+
 Agricultural outcomes are heavily influenced by seasonal shifts in climate, resource availability, and soil health. Raw farming data often conceals how these variables interact to dictate profit and yield. This project performs rigorous exploratory data analysis (EDA), data cleaning, statistical modeling, and interactive visualization to decode seasonal dynamics and support evidence-based agricultural planning.
 
 📂 Dataset Overview
+
 The dataset encompasses key agricultural performance metrics across multiple farm regions:
 * Identifiers & Geography: Farm_ID, State, District, Crop, Season.
 * Environmental Factors: Rainfall_mm, Avg_Temperature_C, Humidity_pct, Sunlight_Hours_Day, Soil_pH, Soil_Moisture_pct.
